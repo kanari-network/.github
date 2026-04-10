@@ -1,6 +1,6 @@
 # Kanari Network
 
-> Secure, transparent, and efficient file metadata storage powered by Move VM in the Web3 ecosystem.
+> Secure, transparent, and efficient file metadata storage powered by Move VM in the Web5 ecosystem.
 
 ## Table of Contents
 - [About](#about)
